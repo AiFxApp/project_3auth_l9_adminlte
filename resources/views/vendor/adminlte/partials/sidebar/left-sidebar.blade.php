@@ -23,5 +23,6 @@
             </ul>
         </nav>
     </div>
+    @include('aifx_parts.main.sidenav')
 
 </aside>
